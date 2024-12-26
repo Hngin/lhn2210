@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13b75c95f34a00d4e8c04f76b73312e6, type: 3}
+  m_Name: Wave5
+  m_EditorClassIdentifier: 
+  m_AnimatedSprites:
+  - {fileID: -928652132, guid: e1bd62a724d9bc74c8b5ac24078e73cf, type: 3}
+  - {fileID: 1055311254, guid: e1bd62a724d9bc74c8b5ac24078e73cf, type: 3}
+  - {fileID: 1315282644, guid: e1bd62a724d9bc74c8b5ac24078e73cf, type: 3}
+  - {fileID: 1400296336, guid: e1bd62a724d9bc74c8b5ac24078e73cf, type: 3}
+  - {fileID: 1575403185, guid: e1bd62a724d9bc74c8b5ac24078e73cf, type: 3}
+  - {fileID: -2040494896, guid: e1bd62a724d9bc74c8b5ac24078e73cf, type: 3}
+  - {fileID: -950299544, guid: e1bd62a724d9bc74c8b5ac24078e73cf, type: 3}
+  - {fileID: 1891865292, guid: e1bd62a724d9bc74c8b5ac24078e73cf, type: 3}
+  m_MinSpeed: 7
+  m_MaxSpeed: 7
+  m_AnimationStartTime: 0
+  m_AnimationStartFrame: 0
+  m_TileColliderType: 1
+  m_TileAnimationFlags: 0
